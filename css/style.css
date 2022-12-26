@@ -351,7 +351,8 @@ body {
       fill: #c69963;
       height: 2rem;
       width: 2rem;
-      margin-right: 1rem; }
+      margin-right: 1rem; 
+      margin-left: 1rem}
   .home__btn {
     grid-column: 1 / -1; }
 
