@@ -341,8 +341,8 @@ body {
     margin-top: 2.5rem; }
 
   .home__location, .home__rooms, .home__area, .home__price {
-    font-size: 1.4rem;
-    margin-left: 1rem;
+    font-size: 1.6rem;
+    margin-left: 2rem;
     display: flex;
     align-items: center; }
 
